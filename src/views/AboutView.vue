@@ -121,7 +121,7 @@
                 <h5 class="card-title">ZHEG Leather</h5>
                 <p class="card-text text-secondary"></p>
               </div>
-              <a href="https://viccjiang.github.io/vue_rehouse/#/" class="stretched-link text-end">線上 Demo <i
+              <a href="https://viccjiang.github.io/zheg_leather/" class="stretched-link text-end">線上 Demo <i
                   class="bi bi-box-arrow-up-right"></i> </a>
             </div>
           </div>
@@ -215,7 +215,7 @@
                 <h5 class="card-title">ZHEG Leather</h5>
                 <p class="card-text text-secondary">Bootstrap 5</p>
               </div>
-              <a href="https://viccjiang.github.io/vue_rehouse/#/" class="stretched-link text-end">線上 Demo <i
+              <a href="https://viccjiang.github.io/zheg_leather/" class="stretched-link text-end">線上 Demo <i
                   class="bi bi-box-arrow-up-right"></i> </a>
             </div>
           </div>
