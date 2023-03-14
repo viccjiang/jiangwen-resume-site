@@ -5,7 +5,7 @@
           <a href="mailto:binbinbb520@gmail.com" class="text-dark mx-3"><i class="bi bi-envelope-fill"></i></a>
         </li>
         <li>
-          <a href="https://viccjiang.github.io/somesweet/#/" class="text-dark mx-3"><i class="bi bi-github"></i></a>
+          <a href="https://github.com/viccjiang" class="text-dark mx-3"><i class="bi bi-github"></i></a>
         </li>
         <li>
           <a href="https://viccjiang.github.io/" class="text-dark  mx-3"><i class="bi bi-globe-americas"></i></a>
