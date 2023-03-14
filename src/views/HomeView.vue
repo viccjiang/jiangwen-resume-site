@@ -11,9 +11,9 @@
             API
             串接，多人共同開發跨部門溝通協調與專案時程管控經驗。</p>
           <div class="">
-            <a href="/about" class=""> 🙂 關於我</a>
+            <RouterLink to="/about"> <a class=" " href="">🙂 我的作品</a></RouterLink>
             <a href="" target="_blank" class="">
-              <a class="ms-5" href="https://www.cakeresume.com/pdf/s--4x6fK6-Wm9avhWI6x0030g--/vpVgM.pdf">下載履歷 <i
+              <a class="ms-5" href="https://www.cakeresume.com/pdf/s--4x6fK6-Wm9avhWI6x0030g--/vpVgM.pdf">📋 下載履歷 <i
                   class="bi bi-download"></i> </a>
             </a>
           </div>
@@ -102,6 +102,4 @@ export default {
 }
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
