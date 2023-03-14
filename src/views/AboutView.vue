@@ -97,7 +97,7 @@
               <img src="../assets/image/w01.png" class="card-img-top rounded-4 h-50 object-fit" alt="...">
               <div class="card-body m-0">
                 <h5 class="card-title">PETPET</h5>
-                <p class="card-text text-secondary"> Vite、Pinia、Vue Router、Bootstrap 5、RESTful API</p>
+                <p class="card-text text-secondary"> </p>
               </div>
               <a href="https://viccjiang.github.io/weblayout_1231_hw08/" class="stretched-link text-end">線上 Demo <i
                   class="bi bi-box-arrow-up-right"></i> </a>
@@ -108,7 +108,7 @@
               <img src="../assets/image/w-02.png" class="card-img-top rounded-4 h-50 object-fit" alt="...">
               <div class="card-body">
                 <h5 class="card-title">DOYOGA </h5>
-                <p class="card-text text-secondary">Open Data API、TDX API 資料串接</p>
+                <p class="card-text text-secondary"></p>
               </div>
               <a href="https://viccjiang.github.io/2021layout_week8_doyoga/" class="stretched-link text-end">線上 Demo <i
                   class="bi bi-box-arrow-up-right"></i> </a>
@@ -119,7 +119,7 @@
               <img src="../assets/image/w03.png" class="card-img-top rounded-4 h-50 object-fit" alt="...">
               <div class="card-body">
                 <h5 class="card-title">ZHEG Leather</h5>
-                <p class="card-text text-secondary">Vue Cli、RESTful API 資料串接、SCSS 客製化網頁樣式</p>
+                <p class="card-text text-secondary"></p>
               </div>
               <a href="https://viccjiang.github.io/vue_rehouse/#/" class="stretched-link text-end">線上 Demo <i
                   class="bi bi-box-arrow-up-right"></i> </a>

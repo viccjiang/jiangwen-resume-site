@@ -13,7 +13,8 @@
           <div class="">
             <a href="/about" class=""> 🙂 關於我</a>
             <a href="" target="_blank" class="">
-              <a class="ms-5" href="https://www.cakeresume.com/pdf/s--4x6fK6-Wm9avhWI6x0030g--/vpVgM.pdf">下載履歷 <i class="bi bi-download"></i> </a>
+              <a class="ms-5" href="https://www.cakeresume.com/pdf/s--4x6fK6-Wm9avhWI6x0030g--/vpVgM.pdf">下載履歷 <i
+                  class="bi bi-download"></i> </a>
             </a>
           </div>
         </div>
@@ -21,6 +22,54 @@
     </div>
     <hr class="mt-15">
     <div class="container">
+      <div class="row">
+        <div class=" col-12 ">
+          <div class="w-100  p-10 ">
+            <ul class="list-unstyled row d-flex flex-column gap-15">
+              <li class="col-12">
+                <ul class="list-unstyled row row-cols-1 row-cols-md-3  gy-3">
+                  <li class="col ">
+                    <div class="border-secondary bg-primary  h-100 border rounded-5 p-10">
+                      <h4 class=" lh-lg fs-4 mb-1 fw-bold text-white">Vue</h4>
+                      <ul class="  fs-8 mt-5 text-nowrap text-white opacity-75 fw-light">
+                        <li>Vue 2、Vue 3 </li>
+                        <li>Vite、Vue Cli 建立專案環境 </li>
+                        <li>Vue Router 路由配置 </li>
+                        <li>components 管理元件</li>
+                        <li>Pinia 狀態管理工具 </li>
+                        <li>Vue 第三方套件使用</li>
+                      </ul>
+                    </div>
+                  </li>
+                  <li class="col">
+                    <div class="border-secondary bg-primary  h-100 border rounded-5 p-10">
+                      <h4 class=" lh-lg fs-4 mb-1 fw-bold text-white">JavaScript</h4>
+                      <ul class="   fs-8 mt-5  text-white opacity-75 fw-light">
+                        <li>了解 ES6 標準及語法 </li>
+                        <li>AJAX 串接 RESTful API</li>
+                        <li>使用 jQuery 製作互動效果</li>
+                        <li>以 ESLint 規範進行開發 </li>
+                        <li>使用 Git 作為版本管理工具</li>
+                      </ul>
+                    </div>
+                  </li>
+                  <li class="col">
+                    <div class="border-secondary bg-primary  h-100 border rounded-5 p-10 ">
+                      <h4 class=" lh-lg fs-4 mb-1 fw-bold text-white">Web Layout</h4>
+                      <ul class="  fs-8 mt-5  text-white opacity-75 fw-light">
+                        <li>HTML5, CSS3</li>
+                        <li>使用 SCSS 預處理器管理 CSS</li>
+                        <li>依照設計實現 RWD 響應式網頁</li>
+                        <li>使用 Bootstrap 4、5 開發專案</li>
+                      </ul>
+                    </div>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
       <table class="table table-hover">
         <thead>
           <tr>
@@ -39,6 +88,7 @@
           </tr>
         </tbody>
       </table>
+
     </div>
   </div>
 </template>
@@ -53,5 +103,5 @@ export default {
 </script>
 
 <style scoped>
-/*  */
+
 </style>
